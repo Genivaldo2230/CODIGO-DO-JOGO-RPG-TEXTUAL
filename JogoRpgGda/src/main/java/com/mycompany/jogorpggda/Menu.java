@@ -1,5 +1,5 @@
 package com.mycompany.jogorpggda;
-//chave do projeto git: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
+//chave do projeto git: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
 
 import com.mycompany.jogorpggda.PlayOn;
 
